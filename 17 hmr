@@ -7,7 +7,13 @@
     <title>17 HMR</title>
   </head>
   <body>
-<iframe src="https://onedrive.live.com/embed?cid=8C796EE0EFBE6202&resid=8C796EE0EFBE6202%21474&authkey=AFJ_2OZmd57VHFI" width="1280" height="724"
-frameborder="0" scrolling="no" allowfullscreen></iframe>
-  </body>
+    <body style="background-color:rgba(146, 143, 143, 0.527);">
+    <p style="font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;font-size: 30px;text-align:center;color:rgb(78, 74, 67);">.17 HMR in a paint can.</p> 
+
+    <p style="text-align:center;"><iframe src="https://onedrive.live.com/embed?cid=8C796EE0EFBE6202&resid=8C796EE0EFBE6202%21474&authkey=AFJ_2OZmd57VHFI" width="960" height="543"
+frameborder="0" scrolling="no" allowfullscreen></iframe></p>
+
+<p style="font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;font-size: 20px;text-align:center;color:rgb(78, 74, 67);">Activities performed by Wayne Zimmerman.<br>Process recorded by Shannon Zimmerman.</p>
+<p style="font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;font-size: 15px;text-align:center;color:rgb(78, 74, 67);">c 2021</p>  
+</body>
 </html>
